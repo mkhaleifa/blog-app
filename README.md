@@ -1,2 +1,2 @@
-# blog-app (1)
+# blog-app 
 BlogApp — Full Stack Blog Platform
